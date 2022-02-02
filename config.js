@@ -76,7 +76,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Network Equipment ',
-            image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic2.jpg',
+            image: '',
             description: 'On the last mile the K3 towers are equipped with Solar and Batteries and a Generator to avoid power outages. On premise Motorola Canopy WIFI Devices are installed for campus coverage.',
             location: {
                 center: [38.73760, 9.02531],
