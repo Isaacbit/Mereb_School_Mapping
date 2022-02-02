@@ -18,10 +18,10 @@ var config = {
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
             description: 'Iceaddis will create an educational network in Ethiopia and interconnect all schools wireless with K3 Air technology and on premise with Cambium Networks With most advanced technology with the most cost effective approach.',
             location: {
-                center: [38.75116, 9.00903],
-                zoom: 13.05,
-                pitch: 45.00,
-                bearing: 0.00
+                center: [38.75349, 8.99678],
+                zoom: 11.66,
+                pitch: 34.50,
+                bearing: -20.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -49,10 +49,10 @@ var config = {
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
             description: '1. Integrated security and content filters <br> 2. Unlimited data <br> 3. Fast <br> 4. Reliable in all weather <br> 5. Highest service standards',
             location: {
-                center: [38.73701, 9.03248],
-                zoom: 13.33,
+                center: [38.74488, 9.01491],
+                zoom: 14.19,
                 pitch: 60.00,
-                bearing: 104.00
+                bearing: -21.60
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -79,10 +79,10 @@ var config = {
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic2.jpg',
             description: 'On the last mile the K3 towers are equipped with Solar and Batteries and a Generator to avoid power outages. On premise Motorola Canopy WIFI Devices are installed for campus coverage.',
             location: {
-                center: [38.77267, 8.99528],
-                zoom: 10.85,
-                pitch: 45.00,
-                bearing: 0.00
+                center: [38.73760, 9.02531],
+                zoom: 15.19,
+                pitch: 38.50,
+                bearing: -21.60
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
