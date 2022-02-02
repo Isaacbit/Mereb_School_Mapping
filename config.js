@@ -49,10 +49,10 @@ var config = {
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
             description: '1. Integrated security and content filters <br> 2. Unlimited data <br> 3. Fast <br> 4. Reliable in all weather <br> 5. Highest service standards',
             location: {
-                center: [38.75116, 9.00903],
-                zoom: 13.05,
-                pitch: 45.00,
-                bearing: 0.00
+                center: [38.73701, 9.03248],
+                zoom: 13.33,
+                pitch: 60.00,
+                bearing: 104.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
