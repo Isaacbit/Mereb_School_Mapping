@@ -40,13 +40,44 @@ var config = {
                 // }
             ]
         },
+        
         {
-            id: 'other-identifier',
+            id: 'slug-style-id',
             alignment: 'right',
             hidden: false,
-            title: 'Second Title',
+            title: 'Opportunity to access free knowledge',
+            image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
+            description: 'Iceaddis will create an educational network in Ethiopia and interconnect all schools wireless with K3 Air technology and on premise with Cambium Networks With most advanced technology with the most cost effective approach.',
+            location: {
+                center: [38.75116, 9.00903],
+                zoom: 13.05,
+                pitch: 45.00,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
+            id: 'other-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Network Equipment ',
             image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            description: 'On the last mile the K3 towers are equipped with Solar and Batteries and a Generator to avoid power outages. On premise Motorola Canopy WIFI Devices are installed for campus coverage.',
             location: {
                 center: [38.77267, 8.99528],
                 zoom: 10.85,
