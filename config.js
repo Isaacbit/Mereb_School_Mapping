@@ -47,7 +47,7 @@ var config = {
             hidden: false,
             title: 'Network Infrastructure Solution: K3 Air',
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
-            description: '1. Integrated security and content filters <br> 2. Unlimited data 3. Fast 4. Reliable in all weather 5. Highest service standards',
+            description: '1. Integrated security and content filters <br> 2. Unlimited data <br> 3. Fast <br> 4. Reliable in all weather <br> 5. Highest service standards',
             location: {
                 center: [38.75116, 9.00903],
                 zoom: 13.05,
