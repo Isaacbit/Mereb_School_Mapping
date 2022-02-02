@@ -45,9 +45,9 @@ var config = {
             id: 'slug-style-id',
             alignment: 'right',
             hidden: false,
-            title: 'Opportunity to access free knowledge',
+            title: 'Network Infrastructure Solution: K3 Air',
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
-            description: 'Iceaddis will create an educational network in Ethiopia and interconnect all schools wireless with K3 Air technology and on premise with Cambium Networks With most advanced technology with the most cost effective approach.',
+            description: '1. Integrated security and content filters <br> 2. Unlimited data 3. Fast 4. Reliable in all weather 5. Highest service standards',
             location: {
                 center: [38.75116, 9.00903],
                 zoom: 13.05,
