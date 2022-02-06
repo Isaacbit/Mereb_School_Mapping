@@ -42,7 +42,7 @@ var config = {
         },
         
         {
-            id: 'slug-style-id',
+            id: 'slug-style-id2',
             alignment: 'right',
             hidden: false,
             title: 'Network Infrastructure Solution: K3 Air',
