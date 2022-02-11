@@ -72,6 +72,36 @@ var config = {
             ]
         },
         {
+            id: 'slug-style-id3',
+            alignment: 'right',
+            hidden: false,
+            title: 'Network Infrastructure Solution: K3 Air',
+            image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
+            description: '1. Integrated security and content filters <br> 2. Unlimited data <br> 3. Fast <br> 4. Reliable in all weather <br> 5. Highest service standards',
+            location: {
+                center: [36.54895, 6.46459],
+                zoom: 6.55,
+                pitch: 0.00,
+                bearing: 0.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+        },
+        {
             id: 'other-identifier',
             alignment: 'left',
             hidden: false,
@@ -79,10 +109,10 @@ var config = {
             image: '',
             description: 'On the last mile the K3 towers are equipped with Solar and Batteries and a Generator to avoid power outages. On premise Motorola Canopy WIFI Devices are installed for campus coverage.',
             location: {
-                center: [38.73760, 9.02531],
-                zoom: 15.19,
-                pitch: 38.50,
-                bearing: -21.60
+                center: [38.10846, 7.17448],
+                zoom: 8.64,
+                pitch: 0.00,
+                bearing: 0.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
