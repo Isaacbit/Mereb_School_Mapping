@@ -18,10 +18,10 @@ var config = {
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
             description: 'Iceaddis will create an educational network in Ethiopia and interconnect all schools wireless with K3 Air technology and on premise with Cambium Networks With most advanced technology with the most cost effective approach.',
             location: {
-                center: [38.75349, 8.99678],
-                zoom: 11.66,
-                pitch: 34.50,
-                bearing: -20.00
+                center: [39.00225, 9.04662],
+                zoom: 5.18,
+                pitch: 15.00,
+                bearing: 0.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -49,10 +49,10 @@ var config = {
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
             description: '1. Integrated security and content filters <br> 2. Unlimited data <br> 3. Fast <br> 4. Reliable in all weather <br> 5. Highest service standards',
             location: {
-                center: [38.74488, 9.01491],
-                zoom: 14.19,
-                pitch: 60.00,
-                bearing: -21.60
+                center: [38.45382, 7.53192],
+                zoom: 5.79,
+                pitch: 0.00,
+                bearing: 0.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
