@@ -5,7 +5,7 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'dark',
     use3dTerrain: false,
-    title: 'Ethiopian Schools With a Modern Network Connectivity.',
+    title: 'Bridging the e-Learning Gap in Ethiopia.',
     subtitle: 'Opportunity to access free knowledge and use distance learning in times like Covid19.',
     byline: 'iceaddis in Partnership with Ministry of Education',
     footer: 'Powered by: iceaddis',
@@ -14,9 +14,14 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'Opportunity to access free knowledge',
+            title: 'Current State in Ethiopia + Problem Statement',
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
-            description: 'Iceaddis will create an educational network in Ethiopia and interconnect all schools wireless with K3 Air technology and on premise with Cambium Networks With most advanced technology with the most cost effective approach.',
+            description: 'Today in Ethiopia access to quality education remains limited and a luxury to those who have access to the internet.
+            'Despite advancements by the Ministry of Education to enable Ethiopian youth with digital, open resources; most of the country still remains in the dark. With wifi penetration at only…… <br>
+            
+            'This in conjunction to the ongoing pandemic, which has globally redefined how students learn in the classroom has cemented e-learning at the forefront of the digital revolution and key component to ensuring learning continues through instability. 
+            'Expanding connectivity in Ethiopia protects the right to schooling for its students despite their socioeconomic status or geographic location.
+',
             location: {
                 center: [39.00225, 9.04662],
                 zoom: 5.18,
