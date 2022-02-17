@@ -16,12 +16,7 @@ var config = {
             hidden: false,
             title: 'Current State in Ethiopia + Problem Statement',
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
-            description: 'Today in Ethiopia access to quality education remains limited and a luxury to those who have access to the internet.
-            'Despite advancements by the Ministry of Education to enable Ethiopian youth with digital, open resources; most of the country still remains in the dark. With wifi penetration at only…… <br>
-            
-            'This in conjunction to the ongoing pandemic, which has globally redefined how students learn in the classroom has cemented e-learning at the forefront of the digital revolution and key component to ensuring learning continues through instability. 
-            'Expanding connectivity in Ethiopia protects the right to schooling for its students despite their socioeconomic status or geographic location.
-',
+            description: 'Today in Ethiopia access to quality education remains limited and a luxury to those who have access to the internet. Despite advancements by the Ministry of Education to enable Ethiopian youth with digital, open resources; most of the country still remains in the dark. With wifi penetration at only…… <br> This in conjunction to the ongoing pandemic, which has globally redefined how students learn in the classroom has cemented e-learning at the forefront of the digital revolution and key component to ensuring learning continues through instability. Expanding connectivity in Ethiopia protects the right to schooling for its students despite their socioeconomic status or geographic location.',
             location: {
                 center: [39.00225, 9.04662],
                 zoom: 5.18,
