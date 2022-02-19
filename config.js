@@ -47,7 +47,7 @@ var config = {
             hidden: false,
             title: 'Connectivity Insights / Research Findings',
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
-            description: 'How many students in ethiopia currently use e-learning? What projections can be made on how can this number can expand with increased connectivity? <br> What does educational inequity driven by lack of connectivity in Ethiopia look like? (need stats) <br> How many students are there in ethiopia and how many don’t have access to the internet? <br> How many students have limited access to the internet, where the existing bandwidth isn’t sufficient for e-learning connection? <br> Demographic information on those with and without connection in Ethiopia',
+            description: '1 - How many students in ethiopia currently use e-learning? What projections can be made on how can this number can expand with increased connectivity? <br> 2 - What does educational inequity driven by lack of connectivity in Ethiopia look like? (need stats) <br> 3 - How many students are there in ethiopia and how many don’t have access to the internet? <br> 4 - How many students have limited access to the internet, where the existing bandwidth isn’t sufficient for e-learning connection? <br> 5 - Demographic information on those with and without connection in Ethiopia',
             location: {
                 center: [38.45382, 7.53192],
                 zoom: 5.79,
@@ -105,7 +105,7 @@ var config = {
             id: 'other-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Network Equipment ',
+            title: 'Impact + Added Value ',
             image: '',
             description: 'On the last mile the K3 towers are equipped with Solar and Batteries and a Generator to avoid power outages. On premise Motorola Canopy WIFI Devices are installed for campus coverage.',
             location: {
