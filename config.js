@@ -45,9 +45,9 @@ var config = {
             id: 'slug-style-id2',
             alignment: 'right',
             hidden: false,
-            title: 'Network Infrastructure Solution: K3 Air',
+            title: 'Connectivity Insights / Research Findings',
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
-            description: '1. Integrated security and content filters <br> 2. Unlimited data <br> 3. Fast <br> 4. Reliable in all weather <br> 5. Highest service standards',
+            description: 'How many students in ethiopia currently use e-learning? What projections can be made on how can this number can expand with increased connectivity? <br> What does educational inequity driven by lack of connectivity in Ethiopia look like? (need stats) <br> How many students are there in ethiopia and how many don’t have access to the internet? <br> How many students have limited access to the internet, where the existing bandwidth isn’t sufficient for e-learning connection? <br> Demographic information on those with and without connection in Ethiopia',
             location: {
                 center: [38.45382, 7.53192],
                 zoom: 5.79,
