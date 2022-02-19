@@ -73,9 +73,9 @@ var config = {
         },
         {
             id: 'slug-style-id3',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
-            title: 'Network Infrastructure Solution: K3 Air',
+            title: 'Proposal + The Solution',
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
             description: '1. Integrated security and content filters <br> 2. Unlimited data <br> 3. Fast <br> 4. Reliable in all weather <br> 5. Highest service standards',
             location: {
