@@ -77,7 +77,7 @@ var config = {
             hidden: false,
             title: 'Proposal + The Solution',
             image: 'https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/pic1.jpg?raw=true',
-            description: '1. Integrated security and content filters <br> 2. Unlimited data <br> 3. Fast <br> 4. Reliable in all weather <br> 5. Highest service standards',
+            description: '1. The Ministry of Education is planning to connect all schools in Ethiopia with an educational backbone to access e-learning services in their central data center in Addis Ababa and for interconnectivity between the schools. <br> 2. Iceaddis created this proposal for supplying a crucial component in this endeavor. With K3 Telecom technology it is intended to bridge the last mile to the schools from the EEP towers and provide high speed connections to the Data center with a guaranteed bandwidth of minimum 300 Mbit per school or receiver.',
             location: {
                 center: [36.54895, 6.46459],
                 zoom: 6.55,
@@ -103,11 +103,11 @@ var config = {
         },
         {
             id: 'other-identifier',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Impact + Added Value ',
             image: '',
-            description: 'On the last mile the K3 towers are equipped with Solar and Batteries and a Generator to avoid power outages. On premise Motorola Canopy WIFI Devices are installed for campus coverage.',
+            description: 'One K3 tower can cover a surrounding area of 50km and more. Iceaddis analyzed the geographical topology of Addis Ababa and can cover all schools and the entire city perimeter with 6 Towers. <br> Further, the Ministry of Education can broadcast educational content and live lessons to everyone in the vicinity with more than 150 channels. <br> This project is intended to cover 3,500 secondary schools across Ethiopia.',
             location: {
                 center: [38.10846, 7.17448],
                 zoom: 8.64,
