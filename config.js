@@ -28,7 +28,7 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                     layer: 'layer-name',
+                     layer: 'ethiopian-border',
                      opacity: 1,
                      duration: 5000
                 }
