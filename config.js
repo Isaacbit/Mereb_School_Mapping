@@ -34,10 +34,10 @@ var config = {
                 }
             ],
             onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
+                 {
+                     layer: 'ethiopian-schools',
+                     opacity: 0
+                 }
             ]
         },
         
