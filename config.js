@@ -35,11 +35,11 @@ var config = {
                 },
 				                {
                     layer: 'school-view-wgs',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'snnp-region',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'snnp-eep-buffer',
@@ -52,7 +52,7 @@ var config = {
                 },
 				                {
                     layer: 'snnp-schools-grouped',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'alaba-zone',
@@ -206,7 +206,7 @@ var config = {
                 },
 				                {
                     layer: 'school-view-wgs',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'snnp-region',
