@@ -170,7 +170,7 @@ var config = {
                 },
 				                {
                     layer: 'alaba-zone',
-                    opacity: 0
+                    opacity: 1
                 }
 
             ],
@@ -181,9 +181,9 @@ var config = {
         {
             id: 'belmont',
             alignment: 'right',
-            title: 'Chapter Four',
+            title: 'Impact + Added Value',
             image: '',
-            description: 'A short ride along the Schuylkill River Trail from the Art Museum, Belmont is a twisty, log-ridden rollercoaster of a trail network. It is easy to get turned around, the underbrush is at times impenetrable, and short steep sections come out of nowhere. In other words, it\'s really fun',
+            description: 'One K3 tower can cover a surrounding area of 50km and more. Iceaddis analyzed the geographical topology of Addis Ababa and can cover all schools and the entire city perimeter with 6 Towers. ',
             location: {
 				center: [38.10846, 7.17448],
 				zoom: 8.64,
@@ -194,11 +194,11 @@ var config = {
 				
 				{
                     layer: 'ethiopian-schools',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'eep-selected-tower',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'eep-buffer-merg',
