@@ -2,7 +2,7 @@ var config = {
     style: 'mapbox://styles/yafetbirhanu/ckz48fgzm000z14s0wk7uhsbb',
     accessToken: 'pk.eyJ1IjoieWFmZXRiaXJoYW51IiwiYSI6ImNrejNyc2hlMDA0dXIyeHFmNHh6eTdtajMifQ.FOQ08vFkwNRHCyjmU-qlDQ',
     showMarkers: false,
-    theme: 'light',
+    theme: 'dark',
     title: 'Bridging the e-Learning Gap in Ethiopia',
     subtitle: '',
     byline: '',
@@ -88,7 +88,7 @@ var config = {
                 },
 				                {
                     layer: 'eep-buffer-merg',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'school-view-wgs',
@@ -122,10 +122,10 @@ var config = {
         },
         {
             id: 'indego',
-            alignment: 'right',
-            title: 'Chapter Three',
+            alignment: 'left',
+            title: 'Proposal + The Solution',
             image: '',
-            description: 'Indego has been operating in Philadelphia since 20XX. The system initally was focused on Center City, but has expanded service to neighboring areas to support equitable mobility options to the city\'s residents.',
+            description: 'Iceaddis created this proposal for supplying a crucial component in this endeavor. With K3 Telecom technology it is intended to bridge the last mile to the schools from the EEP towers and provide high speed connections to the Data center with a guaranteed bandwidth of minimum 300 Mbit per school or receiver.',
             location: {
 				center: [36.54895, 6.46459],
 				zoom: 6.55,
@@ -141,7 +141,7 @@ var config = {
                 },
 				                {
                     layer: 'eep-selected-tower',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'eep-buffer-merg',
@@ -153,11 +153,11 @@ var config = {
                 },
 				                {
                     layer: 'snnp-region',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'snnp-eep-buffer',
-                    opacity: 1
+                    opacity: 0
                 },
 				              
 				                {
@@ -166,7 +166,7 @@ var config = {
                 },
 				                {
                     layer: 'snnp-schools-grouped',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'alaba-zone',
