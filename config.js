@@ -20,6 +20,11 @@ var config = {
 				pitch: 15.00,
 				bearing: 0.00
             },
+	    
+	    mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+		
             onChapterEnter: [
 				{
                     layer: 'ethiopian-schools',
@@ -60,6 +65,10 @@ var config = {
                 }
             ],
             onChapterExit: [
+		    {
+                    layer: 'alaba-zone',
+                    opacity: 0
+                }
 
             ]
         },
