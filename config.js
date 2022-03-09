@@ -3,17 +3,17 @@ var config = {
     accessToken: 'pk.eyJ1IjoieWFmZXRiaXJoYW51IiwiYSI6ImNrejNyc2hlMDA0dXIyeHFmNHh6eTdtajMifQ.FOQ08vFkwNRHCyjmU-qlDQ',
     showMarkers: false,
     theme: 'light',
-    title: '',
+    title: 'Bridging the e-Learning Gap in Ethiopia',
     subtitle: '',
     byline: '',
-    footer: '',
+    footer: 'Powered by: iceaddis',
     chapters: [
         {
             id: 'phl',
-            alignment: 'right',
-            title: 'Chapter One',
+            alignment: 'left',
+            title: 'Current State in Ethiopia + Problem Statement',
             image: '',
-            description: 'Getting around Philadelphia on two wheels is fast, fun, and cheap. As a typical East Coast large city, the urban core is dense, so there is a lot within reach of a 15 minute ride... even mountain bike trails. Paired with the public transit infrastructure, cycling can be more efficient and much less expensive than driving (and parking) a car.',
+            description: 'Today in Ethiopia access to quality education remains limited and a luxury to those who have access to the internet. Despite advancements by the Ministry of Education to enable Ethiopian youth with digital, open resources; most of the country still remains in the dark. With wifi penetration at only',
             location: {
 				center: [39.00225, 9.04662],
 				zoom: 5.18,
@@ -66,9 +66,9 @@ var config = {
         {
             id: 'bike-lanes',
             alignment: 'right',
-            title: 'Chapter Two',
+            title: 'Connectivity Insights / Research Findings',
             image: '',
-            description: 'Philadelphia has XX miles of bike lanes, XX miles of which are protected. Drivers are getting more used to sharing the road, but ride defensively.',
+            description: 'How many students in ethiopia currently use e-learning? What projections can be made on how can this number can expand with increased connectivity? What does educational inequity driven by lack of connectivity in Ethiopia look like? (need stats)',
             location: {
 				center: [38.45382, 7.53192],
 				zoom: 5.79,
