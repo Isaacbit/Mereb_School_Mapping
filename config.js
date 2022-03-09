@@ -4,7 +4,7 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     title: 'Bridging the e-Learning Gap in Ethiopia',
-    subtitle: '',
+    subtitle: 'Connecting Ethiopian Youth to Educational Equity',
     byline: '',
     footer: 'Powered by: iceaddis',
     chapters: [
