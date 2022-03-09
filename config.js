@@ -27,11 +27,11 @@ var config = {
                 },
 				                {
                     layer: 'eep-selected-tower',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'eep-buffer-merg',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'school-view-wgs',
@@ -43,7 +43,7 @@ var config = {
                 },
 				                {
                     layer: 'snnp-eep-buffer',
-                    opacity: 0
+                    opacity: 1
                 },
 				              
 				                {
