@@ -11,7 +11,7 @@ var config = {
 chapters: [
         {
             id: 'first',
-            alignment: 'right',
+            alignment: 'left',
             title: 'Enabling Educational Equity in Ethiopia with MapBox',
             image: '',
             description: 'Enabling Educational Equity with MapBox in Ethiopia ',
