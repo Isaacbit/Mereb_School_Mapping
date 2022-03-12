@@ -98,23 +98,23 @@ chapters: [
                 },
 				                {
                     layer: 'eep-selected-tower',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'eep-buffer-merg',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'school-view-wgs',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'snnp-region',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'snnp-eep-buffer',
-                    opacity: 1
+                    opacity: 0
                 },
 				              
 				                {
@@ -123,7 +123,7 @@ chapters: [
                 },
 				                {
                     layer: 'snnp-schools-grouped',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'alaba-zone',
@@ -150,7 +150,7 @@ chapters: [
 				pitch: 0.00,
 				bearing: 0.00
             },
-            onChapterEnter: [
+            oonChapterEnter: [
  			
 				
 				{
@@ -163,7 +163,7 @@ chapters: [
                 },
 				                {
                     layer: 'eep-buffer-merg',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'school-view-wgs',
@@ -207,7 +207,7 @@ chapters: [
 				pitch: 0.00,
 				bearing: 0.00
             },
-            onChapterEnter: [
+            nChapterEnter: [
    
 				
 				{
@@ -216,7 +216,7 @@ chapters: [
                 },
 				                {
                     layer: 'eep-selected-tower',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'eep-buffer-merg',
@@ -228,11 +228,11 @@ chapters: [
                 },
 				                {
                     layer: 'snnp-region',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'snnp-eep-buffer',
-                    opacity: 0
+                    opacity: 1
                 },
 				              
 				                {
@@ -241,11 +241,11 @@ chapters: [
                 },
 				                {
                     layer: 'snnp-schools-grouped',
-                    opacity: 0
+                    opacity: 1
                 },
 				                {
                     layer: 'alaba-zone',
-                    opacity: 1
+                    opacity: 0
                 }
 
             ],
@@ -269,11 +269,11 @@ chapters: [
 				
 				{
                     layer: 'ethiopian-schools',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'eep-selected-tower',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'eep-buffer-merg',
@@ -281,7 +281,7 @@ chapters: [
                 },
 				                {
                     layer: 'school-view-wgs',
-                    opacity: 1
+                    opacity: 0
                 },
 				                {
                     layer: 'snnp-region',
