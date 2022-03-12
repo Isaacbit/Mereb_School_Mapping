@@ -7,7 +7,73 @@ var config = {
     subtitle: 'Connecting Ethiopian Youth to Educational Equity',
     byline: '',
     footer: 'Powered by: iceaddis',
-    chapters: [
+    
+chapters: [
+        {
+            id: 'first',
+            alignment: 'right',
+            title: 'Enabling Educational Equity in Ethiopia with MapBox',
+            image: '',
+            description: 'Enabling Educational Equity with MapBox in Ethiopia ',
+            location: {
+		center: [11.56910, 1.96241],
+		zoom: 2.48,
+		pitch: 0.00,
+		bearing: 0.00
+            },
+	    
+	    mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+		
+            onChapterEnter: [
+				{
+                    layer: 'ethiopian-schools',
+                    opacity: 1
+                },
+				                {
+                    layer: 'eep-selected-tower',
+                    opacity: 1
+                },
+				                {
+                    layer: 'eep-buffer-merg',
+                    opacity: 1
+                },
+				                {
+                    layer: 'school-view-wgs',
+                    opacity: 1
+                },
+				                {
+                    layer: 'snnp-region',
+                    opacity: 1
+                },
+				                {
+                    layer: 'snnp-eep-buffer',
+                    opacity: 1
+                },
+				              
+				                {
+                    layer: 'snnp-eep-locations',
+                    opacity: 0
+                },
+				                {
+                    layer: 'snnp-schools-grouped',
+                    opacity: 1
+                },
+				                {
+                    layer: 'alaba-zone',
+                    opacity: 0
+                }
+            ],
+            onChapterExit: [
+		    {
+                    layer: 'alaba-zone',
+                    opacity: 0
+                }
+
+            ]
+        },	
+	
         {
             id: 'phl',
             alignment: 'left',
