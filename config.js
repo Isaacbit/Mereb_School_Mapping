@@ -13,7 +13,7 @@ chapters: [
             id: 'first',
             alignment: 'left',
             title: 'Current State of Connectivity in Ethiopia',
-            image: '<img src="/images/Pic1new.jpg" alt="Student">',
+            image: '<img src="/Pic1new.jpg" alt="Student">',
             description: 'Today access to quality education remains limited for the majority of the country. Despite advancements by the Ministry of Education to equip Ethiopian youth with digital, open resources; most Ethiopians still remain in the dark with wifi penetration at only 15%.',
             location: {
 		center: [11.56910, 1.96241],
