@@ -143,7 +143,7 @@ chapters: [
             alignment: 'right',
             title: 'Bridging the Connectivity Gap',
             image: '',
-            description: 'The Ministry of Education is planning to connect all schools in Ethiopia with an educational backbone to access e-learning services in their central data center in Addis Ababa and for interconnectivity between the schools. <br> Expanding connectivity in Ethiopia protects the right to schooling for students regardless of socioeconomic status or geographic location.',
+            description: 'The Ministry of Education is planning to connect all schools in Ethiopia with an educational backbone to access e-learning services in their central data center in Addis Ababa and for interconnectivity between the schools. <br> <br>Expanding connectivity in Ethiopia protects the right to schooling for students regardless of socioeconomic status or geographic location.',
             location: {
 				center: [38.45382, 7.53192],
 				zoom: 5.79,
