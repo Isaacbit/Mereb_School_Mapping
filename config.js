@@ -256,9 +256,9 @@ chapters: [
         {
             id: 'belmont',
             alignment: 'right',
-            title: 'Impact + Added Value',
+            title: 'The Impact',
             image: '',
-            description: 'One K3 tower can cover a surrounding area of 50km and more. Iceaddis analyzed the geographical topology of Addis Ababa and can cover all schools and the entire city perimeter with 6 Towers. ',
+            description: 'One K3 tower can cover a surrounding area of 50km and more. Iceaddis conducted a pilot study and analyzed the geographical topology of Addis Ababa to discover the K3 technology can be used to cover all schools and the entire city perimeter with 6 Towers. <br> <br>Further, the Ministry of Education can broadcast educational content and live lessons to everyone in the vicinity with more than 150 channels. <br> <br>This project is intended to cover 3,500 secondary schools across Ethiopia.',
             location: {
 				center: [38.10846, 7.17448],
 				zoom: 8.64,
