@@ -13,7 +13,7 @@ chapters: [
             id: 'first',
             alignment: 'left',
             title: 'Current State of Connectivity in Ethiopia',
-            image: '',
+            image: ' <a href="https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/Pic%201%20new.jpg"> <img alt="student" src="https://github.com/Isaacbit/Mereb_School_Mapping/blob/main/images/Pic%201%20new.jpg" width=150" height="70"> </a>',
             description: 'Today access to quality education remains limited for the majority of the country. Despite advancements by the Ministry of Education to equip Ethiopian youth with digital, open resources; most Ethiopians still remain in the dark with wifi penetration at only 15%.',
             location: {
 		center: [11.56910, 1.96241],
